@@ -93,7 +93,9 @@ Collaborating on GitHub:
 14. Repeat again, and again, and again
 
 ## Complete the Assignment By adding it here
+### Things I understand
 ### Things I don't understand
 1. Pull requests - how to do it effectively and are they the same as merges?
+2. Libraries and Frameworks - the concepts and basics
 ### Things I Want to Know
 1. CI (Continuous Integreation) - what it is and how it works
