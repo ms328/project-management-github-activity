@@ -98,4 +98,5 @@ Collaborating on GitHub:
 1. Pull requests - how to do it effectively and are they the same as merges?
 2. Libraries and Frameworks - the concepts and basics
 ### Things I Want to Know
-1. CI (Continuous Integreation) - what it is and how it works
+1. CI (Continuous Integration) - what it is and how it works
+2. CD (Continuous Deployment) - what it is and how it works
