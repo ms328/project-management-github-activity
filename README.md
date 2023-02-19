@@ -103,4 +103,3 @@ Collaborating on GitHub:
 3. Concept of SSH Keys
 ### Things I Want to Know
 1. CI (Continuous Integration) - what it is and how it works
-2. CD (Continuous Deployment) - what it is and how it works
