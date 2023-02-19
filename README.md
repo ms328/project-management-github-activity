@@ -99,5 +99,7 @@ Collaborating on GitHub:
 ### Things I don't understand
 1. Pull requests - how to do it effectively and are they the same as merges?
 2. Libraries and Frameworks - the concepts and basics
+3. Concept of SSH Keys
 ### Things I Want to Know
 1. CI (Continuous Integration) - what it is and how it works
+2. CD (Continuous Deployment) - what it is and how it works
