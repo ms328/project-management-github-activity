@@ -96,6 +96,7 @@ Collaborating on GitHub:
 ### Things I understand
 1. Cloning a repo
 2. Pushing to GitHub
+3. Docker commands
 ### Things I don't understand
 1. Pull requests - how to do it effectively and are they the same as merges?
 2. Libraries and Frameworks - the concepts and basics
