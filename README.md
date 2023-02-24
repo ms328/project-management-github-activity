@@ -94,14 +94,14 @@ Collaborating on GitHub:
 
 ## Complete the Assignment By adding it here
 ### Things I understand
-1. Cloning a repo
-2. Pushing to GitHub
-3. Docker commands
+1. Cloning a repo [1]
+2. Pushing to GitHub [1]
+3. Docker commands [1]
 ### Things I don't understand
-1. Pull requests - how to do it effectively and are they the same as merges?
-2. Libraries and Frameworks - the concepts and basics
-3. Concept of SSH Keys
+1. Pull requests - how to do it effectively and are they the same as merges? [1]
+2. Libraries and Frameworks - the concepts and basics [1]
+3. Concept of SSH Keys [1]
 ### Things I Want to Know
-1. CI (Continuous Integration) - what it is and how it works
-2. CD (Continuous Deployment) - what it is and how it works
-3. Agile and DevOps - The difference and how it works
+1. CI (Continuous Integration) - what it is and how it works [1]
+2. CD (Continuous Deployment) - what it is and how it works [1]
+3. Agile and DevOps - The difference and how it works [1]
