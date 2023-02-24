@@ -12,20 +12,56 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand
+
+#### Things we understand**
 1.  Cloning a repo [1]
 2.  Building a docker image [1]
-3.  Commit on GitHub [1]
-4.  How Docker Works[1]
+3.  How Docker Works[1]
+4.I know how to make an ssh key and add it to GitHub so I don't need to login with password [3]
+5. I learned GitHub Issues [3]
+6. An understanding of CI/CD [1]
+7. Git Commands - add, commit, push [1]
+8. Version locking [1]
+9. the requirements.txt file [1]
+10. Basic of Agile methodology [1]
+11. Merging Pull Requests [1]
+12. Debugging Github Actions [1]
+13. Docker Authentication Using Token [1]
+14. Cloning and Merging through Github [1]
+
 #### Things we don't understand
-1. Packages [1]
-2. Docker hub [1]
-3. SSH Keys [1]
-4. Putty [1]
-#### Things we want to know next
-1.  VIM [1]
-2.  CI [1]
-3.  CD [1]
+1. How Docker Works[1]
+2. The concept of SSH Keys[3]
+3. Libraries and Frameworks[1]
+4. Packages [1]
+5. Putty [1]
+1. Git Stash [1]
+2. Dockerfile [1]
+3. GitHub Collaboration [1]
+4. Reconciling divergent branches [1]
+5. How a kernel functions [1]
+6. Webpack.config from mywebclass [1]
+7. Rebasing [1]
+8. Develop App from Start --> Finish [1]
+9. Practical Use of Docker [1]
+10. Github Milestones [1]
+11. Resolving Conflicts [1]
+12. Merge Conflicts [1]
+
+#### Things we want to know next**
+1.  VIM [2]
+2.  CD (continuous development)[3]
+3.  CI (continuous integration)[2] 
+1. Python Flask [1]
+2. AWS - cloud development [1]
+3. Unit Testing [2]
+4. More of what npm is capable of [1]
+5. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt) [1]
+6. React [2]
+7. Css-Flexbox/GridView [1]
+8. Redux/Flask [1]
+9. How to use Kubernetes [1]
+10. How to Build Landing pages using HTML, CSS, and Javascript [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -72,7 +108,6 @@ Collaborating on GitHub:
 4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
 5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
 
-
 ### Project management and Collaboration workflow Steps
 1. create an issue
 2. assign issue to project task
@@ -93,4 +128,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
